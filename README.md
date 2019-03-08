@@ -25,5 +25,6 @@ Build a classifier on CIFAR10 dataset using
 <br>The 3 Layer CNN attains a Maximum Training Accuracy of 89.44%  and Testing Accuracy of 87.45%
 <br>
 
-<br> In terms of Performance. 
+<br> In terms of Performance, CNN performs way better in doing image related task as this model takes into account the pixel and dimensional information of the image. MLP on the other hand is still capable of performing image classification. However, the model is prone to underfitting. On the constraint of having a maximum of 3 hidden layers, CNN performs an acceptable accuracy of 89% on the training set and 87% on the testing set. MLP manage to reach 61% training accuracy and 57.32% testing accuracy, it's accuracy can still pushed up to 70%, but the model starts to underfit when attempted in this activity. Overall, CNN is the better model in doing image classification when compared head to head with MLP, the only downside of CNN is that it needs a lot of computational power unlike MLP. 
+
 <br> Other trial models created can be found on this [repository](https://github.com/paul028/myJupyterNotebook).
