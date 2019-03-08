@@ -9,3 +9,9 @@ Build a classifier on CIFAR10 dataset using
 <br>5. Show your solution using Jupyter notebook
 <br>6. Implement using Keras or Pytorch
 <br>7. Compare performance of both networks (best MLP vs best CNN)
+
+
+<br> # The 3 Layer MLP attains a Maximum Testing Accuracy of 61.57%  and Testing Accuracy of 57.32%
+
+<br> # The 3 Layer CNN attains a Maximum Testing Accuracy of 89.44%  and Testing Accuracy of 87.45%
+
