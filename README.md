@@ -12,12 +12,13 @@ Build a classifier on CIFAR10 dataset using
 
 <br> Final Result: 
 <br>
+<br> Cifar10 classifier on 3-Layer MLP:
 <br> Link to MLP [Here](https://github.com/paul028/EE298-HW1_CIFAR10/blob/master/CIFAR10_MLP_v3.ipynb)
 <br>
 ![alt text](https://github.com/paul028/EE298-HW1_CIFAR10/blob/master/MLP.png)
 <br>The 3 Layer MLP attains a Maximum Training Accuracy of 61.57%  and Testing Accuracy of 57.32%
 <br>
-
+<br> Cifar10 classifier on 3-Layer CNN:
 <br> Link to CNN Model [Here](https://github.com/paul028/EE298-HW1_CIFAR10/blob/master/CIFAR10_3L_CNN_TPUv9.ipynb).
 <br>
 ![alt text](https://github.com/paul028/EE298-HW1_CIFAR10/blob/master/CNN.png)
