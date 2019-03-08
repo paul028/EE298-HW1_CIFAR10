@@ -15,9 +15,11 @@ Build a classifier on CIFAR10 dataset using
 <br>The 3 Layer MLP attains a Maximum Testing Accuracy of 61.57%  and Testing Accuracy of 57.32%
 <br>
 ![alt text](https://github.com/paul028/EE298-HW1_CIFAR10/blob/master/MLP.png)
-<br> [TEXT TO SHOW](www.google.com)
+<br> Link to MLP [Here](https://github.com/paul028/EE298-HW1_CIFAR10/blob/master/CIFAR10_MLP_v3.ipynb)
 <br>
 <br>The 3 Layer CNN attains a Maximum Testing Accuracy of 89.44%  and Testing Accuracy of 87.45%
 <br>
 ![alt text](https://github.com/paul028/EE298-HW1_CIFAR10/blob/master/CNN.png)
-<br> [TEXT TO SHOW](www.google.com)
+<br> Link to CNN Model [Here](https://github.com/paul028/EE298-HW1_CIFAR10/blob/master/CIFAR10_3L_CNN_TPUv9.ipynb).
+<br>
+<br> Other trial models created can be found on this [repository](https://github.com/paul028/myJupyterNotebook).
