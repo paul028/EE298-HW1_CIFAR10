@@ -10,7 +10,7 @@ Build a classifier on CIFAR10 dataset using
 <br>6. Implement using Keras or Pytorch
 <br>7. Compare performance of both networks (best MLP vs best CNN)
 
-<br> Final Result: 
+<br> **Final Result: **
 <br>
 <br> Cifar10 classifier on 3-Layer MLP:
 <br> Link to MLP [Here](https://github.com/paul028/EE298-HW1_CIFAR10/blob/master/CIFAR10_MLP_v3.ipynb)
